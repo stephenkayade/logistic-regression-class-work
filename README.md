@@ -1,1 +1,1 @@
-# logistic-regression-class-work
+# Example of logistic-regression
